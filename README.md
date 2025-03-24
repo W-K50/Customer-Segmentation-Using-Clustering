@@ -1,15 +1,12 @@
 # Customer-Segmentation-Using-Clustering Report
 
-Customer Segmentation Using Clustering
 **1. Introduction**
 Customer segmentation is a crucial process for businesses to understand different groups of customers based on their behavior, demographics, and spending patterns. In this study, we apply clustering techniques to segment customers using the Mall Customer Segmentation Dataset, which includes features such as Age, Annual Income, and Spending Score.
 
 **2. Methodology**
 **2.1 Exploratory Data Analysis (EDA)**
 We performed EDA to analyze customer demographics and spending habits. This included:
-
 Descriptive statistics of Age, Income, and Spending Score.
-
 Visualizations such as histograms and scatter plots to identify patterns.
 
 **2.2 Clustering Techniques**
